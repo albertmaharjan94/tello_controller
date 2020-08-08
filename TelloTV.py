@@ -5,7 +5,6 @@ import time
 import datetime
 import os
 import argparse
-import joystickapi
 import msvcrt
 import time
 import pygame
