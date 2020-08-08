@@ -1,10 +1,4 @@
-# TelloTV
-TelloTV is a rather simplistic approach to be able to launch your Tello drone & hav it track your face. This approach has been tested & proven to work with the DJI Tello Drone (Non - Educational Version I believe, but may still work with the educational version?)
-
 Tested with Python 3.6, but it also may be compatabile with other versions.
-
-## Example
-https://youtu.be/esw88_gKOpA
 
 ## Install
 ```
@@ -56,7 +50,9 @@ $ pip install -r requirements.txt
 
 
 # Credits
-his script has been adapted from Jabrils [TelloTV](https://github.com/Jabrils/TelloTV) 
+This script has been adapted from Jabrils [TelloTV](https://github.com/Jabrils/TelloTV) 
+
+
 This script has further been adapted from Damià Fuentes Escoté's [TelloSDKPy](https://github.com/damiafuentes/DJITelloPy) script, please check it out if you want to learn more about that.
 
 #### AI
