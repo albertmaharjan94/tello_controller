@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 - L: To Land
 
 ## Controller
-- Start: Overite
+- Start: Overwrite
 - Y: Takeoff
 - A: Land
 - X: Take Video
